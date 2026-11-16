@@ -370,5 +370,5 @@ A coleção `teste_conexao` é criada apenas pelo `TesteFirestore` e pode ser ap
 - João Pedro Leite
 - Ryan Robert Barreto de Almeida
 
-**Instituição:** UniJorge
+**Instituição:** UniJorge \n
 **Disciplina:** Projeto de Extensão III
